@@ -6,7 +6,7 @@ I completed this task for the first challenge in my Skills Boot Camp in Front-En
 
 ## Usage
 Click on the links in the navigation bar to be directed to the relevant section of the website. See the screenshot below to see the navigation bar. 
-! [Link to screenshot] (starter/assets/images/Screenshot 2023-11-11 124356.png)
+![Link to screenshot](starter/assets/images/Screenshot 2023-11-11 124356.png)
 
 ## License
 MIT License
