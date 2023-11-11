@@ -2,7 +2,7 @@
 
 ## My first challenge with the edX Bootcamp
 
-I completed this task for the first challenge in my Skills Boot Camp in Front-End Web Development. The purpose of this task was so I could learn a key skill for my future career as a web developer. This was an 'on-the-job ticket' challenge where I was provided with starter code and needed to modify the code to fulfil accessibility standards so that the site could be optimized for search engines. I learnt the semantic features of HTML and replaced some <div> tags with tags such as <header>,<section>, <article> and <footer>. I also added in comments to the CSS file and reorganised the CSS so it was easier to read and more concise. 
+I completed this task for the first challenge in my Skills Boot Camp in Front-End Web Development. The purpose of this task was so I could learn a key skill for my future career as a web developer. This was an 'on-the-job ticket' challenge where I was provided with starter code and needed to modify the code to fulfil accessibility standards so that the site could be optimized for search engines. I learnt the semantic features of HTML and replaced some div tags with tags such as header,section, article and footer. I also added in comments to the CSS file and reorganised the CSS so it was easier to read and more concise. 
 
 ## Usage
 Click on the links in the navigation bar to be directed to the relevant section of the website. See the screenshot below to see the navigation bar. 
